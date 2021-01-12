@@ -1,0 +1,8 @@
+a = input("enter your first number")
+print(a) 
+a = float(a)       # convert (a) to float . value(if - posible)
+#b = input("enter your first number")
+b = input("enter your second number ")
+b = float(b)
+#print(type(a))
+print(a+b)
