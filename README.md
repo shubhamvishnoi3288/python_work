@@ -1,2 +1,2 @@
 #   python_work_program
-  my-learning
+  my (PYTHON-LEARNING PROGRAM)-learning
